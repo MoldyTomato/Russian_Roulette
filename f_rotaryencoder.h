@@ -1,4 +1,5 @@
-
+/*Adapted from Matthias Hertel's RotaryEncoder lib*/
+/* https://github.com/mathertel/RotaryEncoder */
 #define PIN_A 12
 #define PIN_B 11
 const int8_t KNOBDIR[] = {
