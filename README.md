@@ -129,6 +129,7 @@ The module is designed to work with inputs 0-5V (Trigger/Gate-signals), which wi
 ## Disclaimer
 
 This module is more a proof of concept than anything else. It can break if pushed and could potentially cause damage and harm. Use at your own risk!
+Regarding the code: Readability, speed and size could be improved. But: finish fast :) may revisit this later 
 
 ## Changelog
 
