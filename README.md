@@ -1,5 +1,6 @@
 # Russian_Roulette (Eurorack Trigger/Gate-Module Arduino Micro) 
 
+![alt text](https://github.com/MoldyTomato/Russian_Roulette/blob/main/module_finished.jpg)
 
 ## Description
 
