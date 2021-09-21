@@ -126,5 +126,10 @@ The module is designed to work with inputs 0-5V (Trigger/Gate-signals), which wi
 
 ![alt text](https://github.com/MoldyTomato/Russian_Roulette/blob/main/schematic.png)
 
+## Disclaimer
+
+This module is more a proof of concept than anything else. It can break if pushed and could potentially cause damage and harm. Use at your own risk!
 
 ## Changelog
+
+22/9/21 Release for public
