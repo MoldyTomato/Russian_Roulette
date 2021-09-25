@@ -129,7 +129,7 @@ The module is designed to work with inputs 0-5V (Trigger/Gate-signals), which wi
 ## Faceplate
 
 ![faceplate](https://github.com/MoldyTomato/Russian_Roulette/blob/main/faceplate.jpg)
-![faceplate_dimensions](https://github.com/MoldyTomato/Russian_Roulette/blob/main/schematic.png)
+![faceplate_dimensions](https://github.com/MoldyTomato/Russian_Roulette/blob/main/faceplate_markings.jpg)
 
 ## Disclaimer
 
