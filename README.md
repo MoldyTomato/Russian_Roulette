@@ -1,6 +1,6 @@
 # Russian_Roulette (Eurorack Trigger/Gate-Module Arduino Micro) 
 
-![alt text](https://github.com/MoldyTomato/Russian_Roulette/blob/main/module_finished.jpg)
+![finished_module](https://github.com/MoldyTomato/Russian_Roulette/blob/main/module_finished.jpg)
 
 ## Description
 
@@ -124,7 +124,12 @@ The module is designed to work with inputs 0-5V (Trigger/Gate-signals), which wi
 
 ## Schematic
 
-![alt text](https://github.com/MoldyTomato/Russian_Roulette/blob/main/schematic.png)
+![schematic](https://github.com/MoldyTomato/Russian_Roulette/blob/main/schematic.png)
+
+## Faceplate
+
+![faceplate](https://github.com/MoldyTomato/Russian_Roulette/blob/main/faceplate.jpg)
+![faceplate_dimensions](https://github.com/MoldyTomato/Russian_Roulette/blob/main/schematic.png)
 
 ## Disclaimer
 
@@ -134,3 +139,4 @@ Regarding the code: Readability, speed and size could be improved. But: finish f
 ## Changelog
 
 22/9/21 Release for public
+25/9/21 Added Faceplate images
