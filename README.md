@@ -138,5 +138,5 @@ Regarding the code: Readability, speed and size could be improved. But: finish f
 
 ## Changelog
 
-22/9/21 Release for public
+22/9/21 Release for public  
 25/9/21 Added Faceplate images
